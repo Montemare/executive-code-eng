@@ -398,6 +398,10 @@
   * {
     font-size: 14px;
   }
+  .top-img{
+    height: 35vh; 
+  
+  }
 
   .hamburger {
     display: block;
@@ -429,7 +433,7 @@
 
   /* Hero */
   .hero-img {
-    height: 65vh;
+    height: 70vh;
   }
   .hero-text {
     margin-left: 10px;
