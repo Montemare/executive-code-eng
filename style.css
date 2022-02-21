@@ -428,6 +428,9 @@
   }
 
   /* Hero */
+  .hero-img {
+    height: 65vh;
+  }
   .hero-text {
     margin-left: 10px;
   }
